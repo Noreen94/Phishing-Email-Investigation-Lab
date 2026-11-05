@@ -24,3 +24,16 @@ The email is treated as suspicious and investigated as part of a simulated secur
 
 ## Disclaimer
 This is a simulated investigation using fictional information. No real employee accounts, credentials, or malicious emails are involved.
+
+## Investigation Evidence
+
+- [View Simulated Phishing Email](evidence/sample-phishing-email.txt)
+- [View Phishing Investigation Report](investigation/phishing-analysis.md)
+
+## Key Skills Demonstrated
+
+- Phishing email analysis
+- Identification of indicators of compromise (IOCs)
+- Threat assessment
+- Security incident documentation
+- SOC Level 1 incident escalation
