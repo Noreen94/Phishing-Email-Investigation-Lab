@@ -67,3 +67,17 @@ The simulated email contains multiple characteristics consistent with a phishing
 The appropriate SOC response is to treat the email as suspicious, preserve the evidence, and escalate for further investigation.
 
 **Final assessment:** Suspected phishing – further verification required.
+
+## 9. Email Authentication Analysis
+
+The simulated email headers showed the following authentication results:
+
+- SPF: FAIL
+- DKIM: NONE
+- DMARC: FAIL
+
+These results indicate that the email failed SPF and DMARC authentication checks and had no DKIM signature.
+
+Combined with the suspicious sender address, urgency, brand impersonation and unfamiliar verification link, these findings increase the likelihood that the message is a phishing attempt.
+
+Note: These are simulated header results created for this lab, not results obtained from a live email investigation.
