@@ -1,1 +1,21 @@
+SIMULATED EMAIL HEADER EVIDENCE
 
+From: Microsoft 365 Support <security-alert@micr0soft-account.example>
+To: employee@fintrust.example
+Subject: URGENT: Your Microsoft 365 Account Will Be Suspended
+
+Return-Path: <bounce@micr0soft-account.example>
+Reply-To: support@micr0soft-security.example
+
+Received: from mail.micr0soft-account.example
+    (192.0.2.45)
+    by mx.fintrust.example
+
+Authentication-Results: mx.fintrust.example;
+    spf=fail smtp.mailfrom=micr0soft-account.example;
+    dkim=none;
+    dmarc=fail header.from=micr0soft-account.example;
+
+Message-ID: <security-alert-20261105@micr0soft-account.example>
+
+END OF SIMULATED HEADERS
