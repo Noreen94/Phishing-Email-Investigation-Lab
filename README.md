@@ -25,7 +25,6 @@ The email is treated as suspicious and investigated as part of a simulated secur
 ## Disclaimer
 This is a simulated investigation using fictional information. No real employee accounts, credentials, or malicious emails are involved.
 
-## Investigation Evidence
 
 ## Investigation Evidence
 
