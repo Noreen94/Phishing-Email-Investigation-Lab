@@ -30,6 +30,7 @@ This is a simulated investigation using fictional information. No real employee 
 - [View Simulated Phishing Email](evidence/sample-phishing-email.txt)
 - [View Phishing Investigation Report](investigation/phishing-analysis.md)
 -  [View Credential Compromise Response](investigation/credential-compromise-response.md)
+-  - [View Simulated Email Headers](evidence/simulated-email-headers.txt)
 
 ## Key Skills Demonstrated
 
