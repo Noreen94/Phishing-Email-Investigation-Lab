@@ -1,0 +1,25 @@
+PHISHING EMAIL - SIMULATED EVIDENCE
+
+From: Microsoft 365 Support <security-alert@micr0soft-account.example>
+To: employee@fintrust.example
+Subject: URGENT: Your Microsoft 365 Account Will Be Suspended
+
+Date: 5 November 2026
+Time: 09:42 AM
+
+Dear User,
+
+We detected unusual activity on your Microsoft 365 account.
+
+Your account will be suspended within 24 hours unless you verify your account immediately.
+
+Please use the link below to confirm your account details:
+
+hxxps://micr0soft-security.example/verify
+
+Failure to complete verification may result in permanent account suspension.
+
+Regards,
+Microsoft 365 Security Team
+
+END OF EMAIL
