@@ -20,7 +20,7 @@ The email is treated as suspicious and investigated as part of a simulated secur
 ## Tools
 - GitHub – project documentation
 - Email header and content analysis
-- VirusTotal – reputation checking, where appropriate
+- VirusTotal – optional reputation-checking tool (not used in this simulation).
 
 ## Disclaimer
 This is a simulated investigation using fictional information. No real employee accounts, credentials, or malicious emails are involved.
