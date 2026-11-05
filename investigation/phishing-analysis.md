@@ -56,9 +56,7 @@ The urgency and impersonation techniques increase the likelihood of a recipient 
 
 ## 7. Investigation Limitations
 
-This investigation is based on a fictional email sample. No live URL was visited, and no real email headers, attachments, or authentication logs were available.
-
-The sender's identity, domain reputation, and whether credentials were compromised cannot be confirmed from the supplied email content alone.
+This investigation is based on a fictional email sample and simulated email headers. No live URL was visited, and no genuine email headers, attachments, or authentication logs were available.
 
 ## 8. Conclusion
 
