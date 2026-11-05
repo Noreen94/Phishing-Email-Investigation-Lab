@@ -29,6 +29,7 @@ This is a simulated investigation using fictional information. No real employee 
 
 - [View Simulated Phishing Email](evidence/sample-phishing-email.txt)
 - [View Phishing Investigation Report](investigation/phishing-analysis.md)
+-  [View Credential Compromise Response](investigation/credential-compromise-response.md)
 
 ## Key Skills Demonstrated
 
@@ -37,3 +38,5 @@ This is a simulated investigation using fictional information. No real employee 
 - Threat assessment
 - Security incident documentation
 - SOC Level 1 incident escalation
+
+- 
